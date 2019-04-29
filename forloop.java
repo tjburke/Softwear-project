@@ -1,3 +1,12 @@
+
+/**
+Name: forloop
+
+Description: counts up odd numbers then shows sum
+
+Created by tj burke
+
+*/
 import java.util.Scanner;
 public class forloop {
 

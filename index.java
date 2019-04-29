@@ -1,3 +1,13 @@
+
+/**
+Name: index
+
+Description: Displays a menu for each program to chose from
+
+Created by tj burke
+
+
+*/
 import java.util.Scanner;
 public class    index {
 
@@ -12,8 +22,8 @@ public class    index {
 
 				while(x!=0){
 		if(x==1){
-			Lisa.main(new String[0]);
-			index.main(new String[0]);
+			Lisa.main(new String[0]); // runs the named program
+			index.main(new String[0]);// brings back to main menu
 
 
 			}

@@ -1,4 +1,12 @@
+/**
+Name: Two
 
+Description: Checks if numbers entered are equal to 2
+
+Created by tj burke
+
+
+*/
 import java.util.Scanner;
 public class  Two {
 

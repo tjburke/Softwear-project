@@ -1,7 +1,7 @@
 /**
 Name: Number
 
-Description:
+Description: Checks if number is postive
 
 Created by tj burke
 

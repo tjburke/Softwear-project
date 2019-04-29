@@ -1,4 +1,12 @@
+/**
+Name: nameage
 
+Description: Takes in name and age then prints it for hold old one is
+
+Created by tj burke
+
+
+*/
 import java.util.Scanner;
 public class  nameage {
 
