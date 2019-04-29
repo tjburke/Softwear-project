@@ -1,4 +1,13 @@
+/**
+Name: Lisa
 
+Description: Displays info on lisa
+
+Created by tj burke
+
+
+
+*/
 import java.util.Scanner;
 public class Lisa {
 
